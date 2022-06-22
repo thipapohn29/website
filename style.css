@@ -1,0 +1,28 @@
+body {
+        background-image: url('https://static.vecteezy.com/system/resources/thumbnails/003/558/450/small/contemporary-artistic-abstract-aesthetic-background-illustration-free-vector.jpg');
+        background-repeat: repeat;
+        background-size: cover;https://www.freepik.com/free-photos-vectors/aesthetic-wallpaper
+    font-family: 'Fahkwang', sans-serif;
+  }
+  
+ header {
+      background-color: black;
+      color: white;
+      height: 70px;
+      padding: 10px;
+    }
+  
+     footer {
+        background-color: black;
+        color: white;
+        height: 70px;
+        padding: 10px;
+        text-align: center;   
+     }
+      
+.mainpage {
+    width: 1024px;
+    margin: 0 auto
+    }
+      
+    
