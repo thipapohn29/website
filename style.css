@@ -27,5 +27,12 @@ body {
       
     
    .headname1{color: rgb(238, 255, 0);}
-   
+
    .headname2{color: rgb(0, 0, 0);}
+  
+
+   .graphic{
+    background-image: url("images/chantaburi-cover.jpeg");
+    height: 320px;
+    padding: auto;
+   }
