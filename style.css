@@ -26,9 +26,15 @@ body {
     }
       
     
-   .headname1{color: rgb(238, 255, 0);}
+   .headname1{
+    color: rgb(238, 255, 0);
+    font-size: 30px;  
+    }
 
-   .headname2{color: rgb(255, 255, 255);}
+   .headname2{
+    color: rgb(255, 255, 255);
+    font-size: 10px; 
+  }
   
 
    .graphic{
